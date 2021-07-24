@@ -9,7 +9,7 @@ import csv
 
 class DataLogger:
 
-    url = 'https://ccc-linear-graphs.firebaseio.com'
+    url = **** # censored
     user_id = uuid4()
     t0 = time()
     online_data_packet = {'-1': {}}
